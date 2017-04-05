@@ -2,6 +2,24 @@ body{
   text-align: center;
   font-family: Verdana;
   font-weight: normal;
+  background-color: #000;
+  color: #fff;
+}
+header h1{
   font-size: 50px;
-  background-color: #ddd;
+}
+.phoneimg a{
+  color: #7fffd4;
+  font-size: 16px;
+}
+header video{
+  display: block;
+  text-align: center;
+}
+.content p{
+  color: #ddd;
+  padding-bottom: 10px;
+}
+footer{
+  text-align: right;
 }
